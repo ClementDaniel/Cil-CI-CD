@@ -1,4 +1,4 @@
-# BlessingU Repo One Read Me File
+# ClementD Repo One Read Me File
 This project is set up to test a few things CodePipeline
 We shall be experimenting with
 - CodeCommit
